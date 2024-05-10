@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #2d2936;
+  background: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,13 +19,13 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #000000;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
 
 .TodoWrapper {
-  background: #41415c;
+  background: #fbefdf;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -48,7 +48,7 @@ h1 {
 }
 
 .todo-input::placeholder {
-  color: #ffffff4d;
+  color: #604d35;
 }
 
 .todo-btn {
